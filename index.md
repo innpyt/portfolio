@@ -21,8 +21,5 @@
 - [Melitta](https://www.melitta.de){:target="_blank"}
 - [Air Wolf](https://www.air-wolf.de){:target="_blank"}
 - [Poggenpohl](https://www.poggenpohl.com/de){:target="_blank"}
-- <a href="https://www.melitta.de" target="_blank">Melitta</a>
-- <a href="https://www.air-wolf.de" target="_blank">Air Wolf</a>
-- <a href="https://www.poggenpohl.com/de" target="_blank">Poggenpohl</a>
 
 ---

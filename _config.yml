@@ -1,13 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Alexander Schmidt # your name (or website title) here
+logo: "/images/Ywx43_Zg-min.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/alsmdt/">linkedin.com/in/alsmdt/</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: null # your Google Analytics tracking ID here
+github:
+  is_project_page: false
+  is_user_page: false
+  pdf_url: null
+show_downloads: true

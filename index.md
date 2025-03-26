@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Vue 3, Nuxt, Headless, SSR, Typescript, Tailwind
 
-[Project 1 Title](/sample_page)
+[Adam Hall](/projects/adamhall)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Fishersports](/projects/adamhall)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,19 +17,10 @@
 
 ---
 
-### Category Name 2
+### Shopware 6, Vue 2/3, Twig, Javascript
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Armedangels](/projects/armedangels)
+- [Eterna](/projects/eterna)
+- [Babyone](/projects/babyone)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

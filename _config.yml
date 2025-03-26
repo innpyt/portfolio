@@ -1,8 +1,5 @@
 title: Alexander Schmidt # your name (or website title) here
 logo: "/images/1740505134652.jpeg" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/alsmdt/">linkedin.com/in/alsmdt/</a> 
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
@@ -12,3 +9,5 @@ github:
   is_user_page: false
   pdf_url: null
 show_downloads: true
+cv_url1: /pdf/Alexander_Schmidt_CV_EN.pdf
+cv_url2: /pdf/Alexander_Schmidt_CV_EN_d.pdf

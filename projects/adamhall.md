@@ -1,4 +1,4 @@
-## Adam Hall ([Link](https://adamhall.com/shop/de))
+## Projects | Adam Hall ([Link](https://adamhall.com/shop/de))
 
 <img src="/portfolio/images/adamhall/home.png"/>
 
@@ -6,15 +6,65 @@
 
 **Tech Stack**: Vue 3, Nuxt, Typescript, Headless, SSR, Tailwind
 
-### 1. Highlights
+### Highlights
+
+- Custom Vue/Nuxt Storefront with own component Library
+- Custom Checkout logic with Mollie and different external services integration (AluCut, Payments, Shippings)
+- Nested Checkout Component validations (Vuelidate)
+- Multiuser Accounts (Shipping adresses, Bank accounts)
+- Customer specific prices and discounts
+- Secondary currency prices
+- Algolia integration (Search & Listings)
+- FastOrder Tabs
+- Cable Configurator
+- Dealer Storelocator (GoogleMaps API)
+- Cloudflare Turnstile
+- Product downloads
+- Wishlists
+
+## Accomplishments:
 - contributed around 16% (350+) of Project PRs over 2 years
-- Technical Ownership (Concept and Implementation) of key features: Checkout and Mollie integration, Navigation, Algolia Search Flyout, Fast Order, Dealer Search, Cable Explorer, Order History, etc
+- Technical Ownership (Concept and Implementation) of 20+ key features: Checkout and Mollie integration, Navigation, Algolia Search, Fast Order, Dealer Search, Cable Explorer, Order History, etc
 
 
-### 2. Gallery
-<img src="/portfolio/images/dummy_thumbnail.jpg" alt="Alt text" title="Title Text" />
-*image_caption*
+## Tasks
+- Development of Headless Shopware 6 based storefronts using Vue, Nuxt, Typescript, Vitest, Tailwind, Twig and SASS
+- Frontend architecture design
+- Conceptualizing and documenting new features
+- Integration and improvement of REST APIs
+- Collaboration with backend developers, PMs, stakeholders, and designers to align technical solutions with business needs.
+- UX and Performance Optimization
+- Testing and Quality Assurance (incl. unit and e2e tests)
+- Mentorship and Code Reviews
+- Evaluation of new technologies and development trends
 
-![ImageText](/portfolio/images/dummy_thumbnail.jpg)
-*image_caption*
+### Gallery
+
+![Checkout](/portfolio/images/adamhall/checkout.png)
+*Checkout*
+
+![Fast Order](/portfolio/images/adamhall/fast-order.png)
+*Fast Order*
+
+![Dealer Search](/portfolio/images/adamhall/dealer-search.png)
+*Dealer Search | Google Maps*
+
+![Cable Explorer](/portfolio/images/adamhall/cable-explorer.png)
+*Cable Explorer*
+
+![Order History List](/portfolio/images/adamhall/order-history-list.png)
+*Order History List*
+
+![Order History Detail](/portfolio/images/adamhall/order-history-detail.png)
+*Order History Detail*
+
+![Search flyout](/portfolio/images/adamhall/search-flyout.png)
+*Search flyout*
+
+![Product downloads](/portfolio/images/adamhall/product-downloads.png)
+*Product downloads*
+
+![Wishlists](/portfolio/images/adamhall/wishlists.png)
+*Wishlists*
+
 

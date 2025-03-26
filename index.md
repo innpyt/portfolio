@@ -8,8 +8,8 @@
 <img src="images/adamhall/home.png?raw=true"/>
 
 ---
-[Fishersports](/portfolio/projects/adamhall)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fishersports](/portfolio/projects/fishersports)
+<img src="images/fishersports/home.png?raw=true"/>
 
 ---
 

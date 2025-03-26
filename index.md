@@ -7,17 +7,8 @@
 - [Adam Hall](/portfolio/projects/adamhall)
 - [Fishersports](/portfolio/projects/fishersports)
 
-| Project                                          | Image                                     |
+| <img src="images/adamhall/home.png"/>        | <img src="images/fishersports/home.png"/>     |
 |--------------------------------------------------|-------------------------------------------|
-| [Adam Hall](/portfolio/projects/adamhall)        | <img src="images/adamhall/home.png"/>     |
-| [Fishersports](/portfolio/projects/fishersports) | <img src="images/fishersports/home.png"/> |
-
-[Adam Hall](/portfolio/projects/adamhall)
-<img src="images/adamhall/home.png"/>
-
----
-[Fishersports](/portfolio/projects/fishersports)
-<img src="images/fishersports/home.png"/>
 
 ---
 

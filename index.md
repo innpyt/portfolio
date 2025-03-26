@@ -4,7 +4,7 @@
 
 ### Vue 3, Nuxt, Headless, SSR, Typescript, Tailwind
 
-- [Adam Hall](/portfolio/projects/adamhall)
+- **[Adam Hall](/portfolio/projects/adamhall)**
 - [Fishersports](/portfolio/projects/fishersports)
 
 |                                       |                                           |
@@ -18,5 +18,8 @@
 - [Armedangels](/portfolio/projects/armedangels)
 - [Eterna](/portfolio/projects/eterna)
 - [Babyone](/portfolio/projects/babyone)
+- [Melitta](https://www.melitta.de)
+- [Air Wolf](https://www.air-wolf.de)
+- [Poggenpohl](https://www.poggenpohl.com/de)
 
 ---

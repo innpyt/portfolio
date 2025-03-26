@@ -1,4 +1,4 @@
-## Projects | Fishersports ([Link](https://www.fischersports.com/de_de))
+## [Projects](/portfolio/) | Fishersports ([Link](https://www.fischersports.com/de_de))
 
 <img src="/portfolio/images/fishersports/home.png"/>
 
@@ -6,7 +6,7 @@
 
 **Tech Stack**: Vue 3, Nuxt, Typescript, Headless, SSR, Tailwind
 
-## Accomplishments:
+### Accomplishments:
 - integrated Loqate Address Validation: Nuxt server API routes, Loqate API, custom composables, component and other logic adjustements
 - Developed Blog Feature: listing composable, filters, sorting, pagination (infinity scrolling), page builder blog components, etc
 

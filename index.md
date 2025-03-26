@@ -4,12 +4,20 @@
 
 ### Vue 3, Nuxt, Headless, SSR, Typescript, Tailwind
 
-- [1. Adam Hall](/portfolio/projects/adamhall)
-[![Adam Hall](/images/adamhall/home.png 'Adam Hall')](/portfolio/projects/adamhall)
+- [Adam Hall](/portfolio/projects/adamhall)
+- [Fishersports](/portfolio/projects/fishersports)
+
+| Project                                          | Image                                     |
+|--------------------------------------------------|-------------------------------------------|
+| [Adam Hall](/portfolio/projects/adamhall)        | <img src="images/adamhall/home.png"/>     |
+| [Fishersports](/portfolio/projects/fishersports) | <img src="images/fishersports/home.png"/> |
+
+[Adam Hall](/portfolio/projects/adamhall)
+<img src="images/adamhall/home.png"/>
 
 ---
-- [2. Fishersports](/portfolio/projects/fishersports)
-[![Fishersports](/images/fishersports/home.png 'Fishersports')](/portfolio/projects/fishersports)
+[Fishersports](/portfolio/projects/fishersports)
+<img src="images/fishersports/home.png"/>
 
 ---
 

@@ -1,4 +1,4 @@
-## Projects | Adam Hall ([Link](https://adamhall.com/shop/de))
+## [Projects](/portfolio/) | Adam Hall ([Link](https://adamhall.com/shop/de))
 
 <img src="/portfolio/images/adamhall/home.png"/>
 

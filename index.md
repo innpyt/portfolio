@@ -28,7 +28,7 @@
 | <img src="images/armedangels/home.png"/> | <img src="images/eterna/home.png"/> | <img src="images/babyone/home.png"/> |
 
 ### React / Nuxt
-No real projects yet, but a bunch of small learn apps
+> No real projects yet as I mainly use Vue at work, but a bunch of small learn apps to stay up to date with React and its updates
 
 - **[NextFood](/portfolio/projects/nextfood)**
 - **[TanEvents](/portfolio/projects/tanevents)**

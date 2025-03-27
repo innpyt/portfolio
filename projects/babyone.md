@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Babyone ([Link](https://www.babyone.de/))
+## [Projects](/portfolio/) | Babyone ([Link](https://www.babyone.de/){:target="_blank"})
 
 <img src="../images/babyone/home.png"/>
 

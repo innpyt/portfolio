@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Eterna ([Link](https://www.eterna.de/de/))
+## [Projects](/portfolio/) | Eterna ([Link](https://www.eterna.de/de/){:target="_blank"})
 
 <img src="../images/eterna/home.png"/>
 

@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Armedangels ([Link](https://www.armedangels.com/de-de))
+## [Projects](/portfolio/) | Armedangels ([Link](https://www.armedangels.com/de-de){:target="_blank"})
 
 <img src="../images/armedangels/home.png"/>
 

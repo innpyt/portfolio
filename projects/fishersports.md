@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Fishersports ([Link](https://www.fischersports.com/de_de))
+## [Projects](/portfolio/) | Fishersports ([Link](https://www.fischersports.com/de_de){:target="_blank"})
 
 <img src="../images/fishersports/home.png"/>
 

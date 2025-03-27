@@ -27,4 +27,22 @@
 |------------------------------------------|-------------------------------------|--------------------------------------|
 | <img src="images/armedangels/home.png"/> | <img src="images/eterna/home.png"/> | <img src="images/babyone/home.png"/> |
 
+### React / Nuxt
+No real projects yet, but a bunch of small learn apps
+
+- **[NextFood](/portfolio/projects/nextfood)**
+- **[TanEvents](/portfolio/projects/tanevents)**
+- **[Placepicker](/portfolio/projects/placepicker)**
+- **[Feedback](/portfolio/projects/feedback)**
+- **[Final Countdown](/portfolio/projects/countdown)**
+- **[Food](/portfolio/projects/food)**
+- **[Context](/portfolio/projects/context)**
+- **[ReStore](/portfolio/projects/restore)**
+
+PS: Completed [React Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) on udemy.
+- most popular react course on udemy with 950 000+ students
+- 71 hours on-demand video
+- 37 coding exercises
+- regular updates (e.g React 19 with Form Actions, Server Components, App Router, etc)
+
 ---

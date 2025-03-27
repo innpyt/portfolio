@@ -12,5 +12,5 @@
 - optimistic updating
 - disabling automatic refetching
 
-![Event](../images/tanevents/event-modal.png)
+![Event](../images/tanevents/event.png)
 *Event*

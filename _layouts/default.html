@@ -14,11 +14,11 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-   <link rel="manifest" href="/site.webmanifest">
+   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/images/apple-touch-icon.png" | relative_url }}">
+   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/images/favicon-32x32.png" | relative_url }}">
+   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/images/favicon-16x16.png" | relative_url }}">
+   <link rel="icon" type="image/x-icon" href="{{ "/images/favicon.ico" | relative_url }}">
+   <link rel="manifest" href="{{ "/site.webmanifest" | relative_url }}">
    {% seo %}
    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 </head>
@@ -56,12 +56,20 @@
                Mainly specializing in Vue, Nuxt, Typescript and Javascript but also have good knowledge of React.
                Keen eye for details, ‘extra mile’ mentality and technical ownership.
             </p>
-            <ul>
+            <ul style="text-align: left;">
                <li>12 years in IT</li>
                <li>9 years in frontend development</li>
                <li>7 years Vue</li>
                <li>3 years Nuxt/Vue 3</li>
                <li>1 year React/Next</li>
+            </ul>
+
+            <h3>Hobbys</h3>
+            <ul style="text-align: left;>
+               <li>Surfing</li>
+               <li>Skiing</li>
+               <li>Karaoke</li>
+               <li>Hookah</li>
             </ul>
          </div>
          {% if site.github.is_project_page %}

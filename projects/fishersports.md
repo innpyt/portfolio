@@ -2,6 +2,10 @@
 
 <img src="/portfolio/images/fishersports/home.png"/>
 
+#### Table of Contents:
+- [Accomplishments](#accomplishments)
+- [Gallery](#gallery)
+
 **Project description:** Fishersports is market leader in Nordic and Alpine top-level sports and one of the largest ski manufacturers worldwide.
 
 **Tech Stack**: Vue 3, Nuxt, Typescript, Headless, SSR, Tailwind

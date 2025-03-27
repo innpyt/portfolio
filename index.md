@@ -15,9 +15,10 @@
 
 ### Shopware 6, Vue 2/3, Twig, Javascript
 
-- [Armedangels](/portfolio/projects/armedangels)
-- [Eterna](/portfolio/projects/eterna)
-- [Babyone](/portfolio/projects/babyone)
+- **[Armedangels](/portfolio/projects/armedangels)**
+- **[Wortmann](/portfolio/projects/wortmann)**
+- **[Eterna](/portfolio/projects/eterna)**
+- **[Babyone](/portfolio/projects/babyone)**
 - [Melitta](https://www.melitta.de){:target="_blank"}
 - [Air Wolf](https://www.air-wolf.de){:target="_blank"}
 - [Poggenpohl](https://www.poggenpohl.com/de){:target="_blank"}

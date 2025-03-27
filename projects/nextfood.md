@@ -4,7 +4,7 @@
 
 **Project description:** Fullstack React learn project from 2024
 
-**Tech Stack**: React 19, Nuxt, SSR, Javascript, SQlite db
+**Tech Stack**: React 19, Next, SSR, Javascript, SQlite db
 
 ## Highlights
 - Next basics

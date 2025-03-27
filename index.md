@@ -27,14 +27,14 @@
 |------------------------------------------|-------------------------------------|--------------------------------------|
 | <img src="images/armedangels/home.png"/> | <img src="images/eterna/home.png"/> | <img src="images/babyone/home.png"/> |
 
-### React / Nuxt
+### React / Next
 > No real projects yet as I mainly use Vue at work, but a bunch of small learn apps to stay up to date with React and its updates
 
 - **[NextFood](/portfolio/projects/nextfood)**
 - **[TanEvents](/portfolio/projects/tanevents)**
 - **[Placepicker](/portfolio/projects/placepicker)**
 - **[Feedback](/portfolio/projects/feedback)**
-- **[Final Countdown](/portfolio/projects/countdown)**
+- **[Countdown](/portfolio/projects/countdown)**
 - **[Food](/portfolio/projects/food)**
 - **[Context](/portfolio/projects/context)**
 - **[ReStore](/portfolio/projects/restore)**

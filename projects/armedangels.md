@@ -1,6 +1,6 @@
 ## [Projects](/portfolio/) | Armedangels ([Link](https://www.armedangels.com/de-de))
 
-<img src="/images/armedangels/home.png"/>
+<img src="../images/armedangels/home.png"/>
 
 #### Table of Contents:
 - [Accomplishments](#accomplishments)
@@ -19,14 +19,14 @@
 
 ### Gallery
 
-![Listing](/images/armedangels/listing.png)
+![Listing](../images/armedangels/listing.png)
 *Listing*
 
-![Product](/images/armedangels/pdp.png)
+![Product](../images/armedangels/pdp.png)
 *Product*
 
-![Video Block](/images/armedangels/video.png)
+![Video Block](../images/armedangels/video.png)
 *Video page builder block*
 
-![Reviews](/images/armedangels/reviews.png)
+![Reviews](../images/armedangels/reviews.png)
 *Reviews*

@@ -1,6 +1,6 @@
 ## [Projects](/portfolio/) | Wortmann ([Link](https://wortmann-group.com/de/home))
 
-<img src="/images/wortmann/home.png"/>
+<img src="../images/wortmann/home.png"/>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -22,11 +22,11 @@
 
 ### Gallery
 
-![Digital Sales Room](/images/wortmann/guide.png)
+![Digital Sales Room](../images/wortmann/guide.png)
 *Digital Sales Room ([Video](https://videos.ctfassets.net/nqzs8zsepqpi/1MlPZAN46uCbQBNJ45nd7M/0cb0d2d763df51646f47f8345dc2c494/Digital-Sales-Rooms_Usecase-1_Guided_DE-animations_1920x1080_no-audio_v3.mp4))*
 
-![Barcode scanner](/images/wortmann/scanner.png)
+![Barcode scanner](../images/wortmann/scanner.png)
 *Barcode scanner*
 
-![Order Matrix](/images/wortmann/matrix.png)
+![Order Matrix](../images/wortmann/matrix.png)
 *Order Matrix*

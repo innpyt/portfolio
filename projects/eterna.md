@@ -44,5 +44,5 @@
 ![Monogram](/portfolio/images/eterna/monogram.png)
 *Monogram*
 
-![Map](/portfolio/images/eterna/Map.png)
+![Map](/portfolio/images/eterna/map.png)
 *Map*

@@ -17,6 +17,7 @@
 - Ready2Wear integration (shirts can get delivered already washed and ironed)
 - Salesforce integration, Customer Card for personalised size/fit suggestions
 - Eterna Stores (Google Maps)
+- D365, PimCore, Adyen integration
 
 
 ### Accomplishments:

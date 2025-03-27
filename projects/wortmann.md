@@ -1,6 +1,6 @@
 ## [Projects](/portfolio/) | Wortmann ([Link](https://wortmann-group.com/de/home))
 
-<img src="/portfolio/images/wortmann/home.png"/>
+<img src="/images/wortmann/home.png"/>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -13,26 +13,20 @@
 
 ### Highlights
 - Shopware PWA Storefront
-- [Digital Sales Room*](https://www.shopware.com/de/produkte/digital-sales-rooms/) 
-> [!NOTE]
-> Interactive presentations and sales feature originally co-developed with Shopware that allows to do interactive presentations, Wortmann was one of the first beta-testers
+- [Digital Sales Room](https://www.shopware.com/de/produkte/digital-sales-rooms/) (Interactive presentations and sales feature originally co-developed with Shopware that allows to do interactive presentations, Wortmann was one of the first beta-testers)
 - highly configurable Order Matrix
+
 
 ### Accomplishments:
 - integrated Barcode Scanner into digital sales room PWA
 
 ### Gallery
 
-![Digital Sales Room1](/portfolio/images/wortmann/guide.png) ([Video](https://videos.ctfassets.net/nqzs8zsepqpi/1MlPZAN46uCbQBNJ45nd7M/0cb0d2d763df51646f47f8345dc2c494/Digital-Sales-Rooms_Usecase-1_Guided_DE-animations_1920x1080_no-audio_v3.mp4))
-*Digital Sales Room*
+![Digital Sales Room](/images/wortmann/guide.png)
+*Digital Sales Room ([Video](https://videos.ctfassets.net/nqzs8zsepqpi/1MlPZAN46uCbQBNJ45nd7M/0cb0d2d763df51646f47f8345dc2c494/Digital-Sales-Rooms_Usecase-1_Guided_DE-animations_1920x1080_no-audio_v3.mp4))*
 
-[![Digital Sales Room2](/portfolio/images/wortmann/guide.png)](https://videos.ctfassets.net/nqzs8zsepqpi/1MlPZAN46uCbQBNJ45nd7M/0cb0d2d763df51646f47f8345dc2c494/Digital-Sales-Rooms_Usecase-1_Guided_DE-animations_1920x1080_no-audio_v3.mp4)
-
-![Digital Sales Room3](https://videos.ctfassets.net/nqzs8zsepqpi/1MlPZAN46uCbQBNJ45nd7M/0cb0d2d763df51646f47f8345dc2c494/Digital-Sales-Rooms_Usecase-1_Guided_DE-animations_1920x1080_no-audio_v3.mp4)
-*Digital Sales Room*
-
-![Barcode scanner](/portfolio/images/wortmann/scanner.png)
+![Barcode scanner](/images/wortmann/scanner.png)
 *Barcode scanner*
 
-![Order Matrix](/portfolio/images/wortmann/matrix.png)
+![Order Matrix](/images/wortmann/matrix.png)
 *Order Matrix*

@@ -1,6 +1,6 @@
 ## [Projects](/portfolio/) | Adam Hall ([Link](https://www.adamhall.com/shop/de))
 
-<img src="/portfolio/images/adamhall/home.png"/>
+<img src="/images/adamhall/home.png"/>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -45,31 +45,31 @@
 
 ### Gallery
 
-![Checkout](/portfolio/images/adamhall/checkout.png)
+![Checkout](/images/adamhall/checkout.png)
 *Checkout*
 
-![Fast Order](/portfolio/images/adamhall/fast-order.png)
+![Fast Order](/images/adamhall/fast-order.png)
 *Fast Order*
 
-![Dealer Search](/portfolio/images/adamhall/dealer-search.png)
+![Dealer Search](/images/adamhall/dealer-search.png)
 *Dealer Search | Google Maps*
 
-![Cable Explorer](/portfolio/images/adamhall/cable-explorer.png)
+![Cable Explorer](/images/adamhall/cable-explorer.png)
 *Cable Explorer*
 
-![Order History List](/portfolio/images/adamhall/order-history-list.png)
+![Order History List](/images/adamhall/order-history-list.png)
 *Order History List*
 
-![Order History Detail](/portfolio/images/adamhall/order-history-detail.png)
+![Order History Detail](/images/adamhall/order-history-detail.png)
 *Order History Detail*
 
-![Search flyout](/portfolio/images/adamhall/search-flyout.png)
+![Search flyout](/images/adamhall/search-flyout.png)
 *Search flyout*
 
-![Product downloads](/portfolio/images/adamhall/product-downloads.png)
+![Product downloads](/images/adamhall/product-downloads.png)
 *Product downloads*
 
-![Wishlists](/portfolio/images/adamhall/wishlists.png)
+![Wishlists](/images/adamhall/wishlists.png)
 *Wishlists*
 
 

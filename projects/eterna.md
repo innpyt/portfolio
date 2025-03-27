@@ -1,6 +1,6 @@
 ## [Projects](/portfolio/) | Eterna ([Link](https://www.eterna.de/de/))
 
-<img src="/portfolio/images/eterna/home.png"/>
+<img src="/images/eterna/home.png"/>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -32,17 +32,17 @@
 
 ### Gallery
 
-![Listing](/portfolio/images/eterna/listing.png)
+![Listing](/images/eterna/listing.png)
 *Listing*
 
-![Detail](/portfolio/images/eterna/detail.png)
+![Detail](/images/eterna/detail.png)
 *Detail*
 
-![Offcanvas](/portfolio/images/eterna/offcanvas.png)
+![Offcanvas](/images/eterna/offcanvas.png)
 *Offcanvas*
 
-![Monogram](/portfolio/images/eterna/monogram.png)
+![Monogram](/images/eterna/monogram.png)
 *Monogram*
 
-![Map](/portfolio/images/eterna/map.png)
+![Map](/images/eterna/map.png)
 *Map*

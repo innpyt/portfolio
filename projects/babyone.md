@@ -1,6 +1,6 @@
 ## [Projects](/portfolio/) | Babyone ([Link](https://www.babyone.de/))
 
-<img src="/portfolio/images/babyone/home.png"/>
+<img src="/images/babyone/home.png"/>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -26,14 +26,14 @@
 
 ### Gallery
 
-![Listing](/portfolio/images/babyone/listing.png)
+![Listing](/images/babyone/listing.png)
 *Listing*
 
-![Detail](/portfolio/images/babyone/detail.png)
+![Detail](/images/babyone/detail.png)
 *Detail*
 
-![Address state](/portfolio/images/babyone/address.png)
+![Address state](/images/babyone/address.png)
 *Address states*
 
-![Address modal](/portfolio/images/babyone/address-modal.png)
+![Address modal](/images/babyone/address-modal.png)
 *Address modal*

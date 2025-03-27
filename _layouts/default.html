@@ -43,29 +43,31 @@
             </svg>
             <a href="https://www.linkedin.com/in/alsmdt/">linkedin.com/in/alsmdt/</a>
          </p>
-         <h2>About me</h2>
-         <p>Analytical problem solver with passion for crafting modern and efficient web applications.
-            Mainly specializing in Vue, Nuxt, Typescript and Javascript but also have good knowledge of React.
-            Keen eye for details, ‘extra mile’ mentality and technical ownership.
-         </p>
-         <ul>
-            <li>12 years in IT</li>
-            <li>9 years in frontend development</li>
-            <li>7 years Vue</li>
-            <li>3 years Nuxt/Vue 3</li>
-            <li>1 year React/Next</li>
-         </ul>
-         {% if site.github.is_project_page %}
-         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-         {% endif %}
-         {% if site.github.is_user_page %}
-         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-         {% endif %}
          {% if site.show_downloads %}
          <ul class="downloads">
             <li><a href="{{ site.cv_url1 }}">Download <strong>Text CV</strong></a></li>
             <li><a href="{{ site.cv_url2 }}">Download <strong>Design CV</strong></a></li>
          </ul>
+         {% endif %}
+         <div style="text-align: center;">
+            <h3>About me</h3>
+            <p>Analytical problem solver with passion for crafting modern and efficient web applications.
+               Mainly specializing in Vue, Nuxt, Typescript and Javascript but also have good knowledge of React.
+               Keen eye for details, ‘extra mile’ mentality and technical ownership.
+            </p>
+            <ul>
+               <li>12 years in IT</li>
+               <li>9 years in frontend development</li>
+               <li>7 years Vue</li>
+               <li>3 years Nuxt/Vue 3</li>
+               <li>1 year React/Next</li>
+            </ul>
+         </div>
+         {% if site.github.is_project_page %}
+         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+         {% endif %}
+         {% if site.github.is_user_page %}
+         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
          {% endif %}
       </header>
       <section>

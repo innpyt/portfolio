@@ -27,6 +27,3 @@
 
 ![Barcode scanner](../images/wortmann/scanner.png)
 *Barcode scanner*
-
-![Order Matrix](../images/wortmann/matrix.png)
-*Order Matrix*

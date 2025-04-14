@@ -22,7 +22,7 @@
    {% seo %}
    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 </head>
-<body>
+<body style="padding: 20px;">
    <div class="wrapper">
       <header>
          <h1 style="margin-bottom: 0;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -44,12 +44,6 @@
             </svg>
             <a href="https://www.linkedin.com/in/alsmdt/" target="_blank">linkedin.com/in/alsmdt/</a>
          </p>
-         {% if site.show_downloads %}
-         <ul class="downloads">
-            <li><a href="{{ site.cv_url1 }}" target="_blank">Download <strong>Text CV</strong></a></li>
-            <li><a href="{{ site.cv_url2 }}" target="_blank">Download <strong>Design CV</strong></a></li>
-         </ul>
-         {% endif %}
          <div style="text-align: center;">
             <h3>About me</h3>
             <p>Analytical problem solver with passion for crafting modern and efficient web applications.
@@ -61,7 +55,7 @@
                <li>9 years in frontend development</li>
                <li>7 years Vue</li>
                <li>3 years Nuxt/Vue 3</li>
-               <li>1 year React/Next</li>
+               <li>React/Next (since 2022)</li>
             </ul>
 
             <h3>Hobbys</h3>

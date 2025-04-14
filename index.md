@@ -28,8 +28,9 @@
 | <img src="images/armedangels/home.png"/> | <img src="images/eterna/home.png"/> | <img src="images/babyone/home.png"/> |
 
 ### React / Next
-> No real projects yet as I mainly use Vue at work, but a bunch of small learn apps to stay up to date with React and its updates
+> No real projects yet as I mainly use Vue at work, but a bunch of small hands-on apps to stay up to date with React
 
+- **[ExpenseTracker](/portfolio/projects/expensetracker)**
 - **[NextFood](/portfolio/projects/nextfood)**
 - **[TanEvents](/portfolio/projects/tanevents)**
 - **[Placepicker](/portfolio/projects/placepicker)**
@@ -39,10 +40,6 @@
 - **[Context](/portfolio/projects/context)**
 - **[ReStore](/portfolio/projects/restore)**
 
-PS: Completed [React Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) on udemy.
-- most popular react course on udemy with 950 000+ students
-- 71 hours on-demand video
-- 37 coding exercises
-- regular updates (e.g React 19 with Form Actions, Server Components, App Router, etc)
+Comfortable with React 16-19 core concepts including Hooks, Next, Server Components, Form Actions, State Management (Redux, Zustand), Tanstack and performance optimisations
 
 ---

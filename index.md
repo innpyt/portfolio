@@ -2,6 +2,13 @@
 
 ---
 
+#### Table of Contents:
+- [Vue 3 & Nuxt](#vue-3-nuxt-headless-ssr-typescript-tailwind)
+- [Vue 2](#shopware-6-vue-23-twig-javascript)
+- [React & Next](#react--next)
+
+---
+
 ### Vue 3, Nuxt, Headless, SSR, Typescript, Tailwind
 
 - **[Adam Hall](/portfolio/projects/adamhall)**
@@ -27,7 +34,7 @@
 |------------------------------------------|-------------------------------------|--------------------------------------|
 | <img src="images/armedangels/home.png"/> | <img src="images/eterna/home.png"/> | <img src="images/babyone/home.png"/> |
 
-### React / Next
+### React & Next
 > No real projects yet as I mainly use Vue at work, but a bunch of small hands-on apps to stay up to date with React
 
 - **[ExpenseTracker](/portfolio/projects/expensetracker)**

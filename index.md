@@ -35,7 +35,8 @@
 | <img src="images/armedangels/home.png"/> | <img src="images/eterna/home.png"/> | <img src="images/babyone/home.png"/> |
 
 ### React & Next
-> No real projects yet as I mainly use Vue at work, but a bunch of small hands-on apps to stay up to date with React
+> Hands-on apps showcasing core concepts: Hooks, Nuxt, Tanstack, React Query, Server components, Form actions, SSR, State management(Redux, Zustand) and performance optimization.
+> Continuously staying aligned with React 16-19 updates.
 
 - **[ExpenseTracker](/portfolio/projects/expensetracker)**
 - **[NextFood](/portfolio/projects/nextfood)**
@@ -46,7 +47,5 @@
 - **[Food](/portfolio/projects/food)**
 - **[Context](/portfolio/projects/context)**
 - **[ReStore](/portfolio/projects/restore)**
-
-Comfortable with React 16-19 core concepts including Hooks, Next, Server Components, Form Actions, State Management (Redux, Zustand), Tanstack and performance optimisations
 
 ---

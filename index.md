@@ -6,6 +6,7 @@
 - [Vue 3 & Nuxt](#vue-3-nuxt-headless-ssr-typescript-tailwind)
 - [Vue 2](#shopware-6-vue-23-twig-javascript)
 - [React & Next](#react--next)
+- [Python](#python)
 
 ---
 
@@ -49,3 +50,7 @@
 - **[ReStore](/portfolio/projects/restore)**
 
 ---
+
+### Python
+- **[JobScraper](/portfolio/projects/jobscraper)**
+- **[JobTracker](/portfolio/projects/jobtracker)**

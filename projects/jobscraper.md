@@ -18,3 +18,4 @@ You always get some **unrelevant results** like 'DevOps Engineer' for 'Frontend 
 - export to Google Sheet or CSV (in an aggregated all-in-one or per feed format)
 - sorting and deduplication (Pandas)
 - autohighlight new jobs without filters
+- persist job status/comment from prev scrape

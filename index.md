@@ -54,4 +54,4 @@
 ### Python
 > Completed [basic projects](https://www.udemy.com/course/100-days-of-code) with Pandas, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib. Now building up portfolio.
 - **[JobScraper](/portfolio/projects/jobscraper)**
-- **[JobTracker](/portfolio/projects/jobtracker)**
+- **[JobDash](/portfolio/projects/jobdash)**

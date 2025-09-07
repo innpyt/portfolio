@@ -1,6 +1,6 @@
 ## [Projects](/portfolio/) | HealthcareTA ([Github](https://github.com/innpyt/healthcare-ta/){:target="_blank"})
 
-<img src="../images/healthcare/home.png" height="500px"/>
+<img src="../images/healthcare/home.png"/>
 
 **Project description:** This project was a solution for the technical case for the Senior Software Engineer position. It is a basic healthcare data platform focused on claims and prescription data, with a relational database, RESTful APIs, and a minimal analytics dashboard.
 
@@ -14,5 +14,6 @@
 
 
 ### Gallery
+
 
 <img src="../images/healthcare/api.png"/>

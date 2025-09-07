@@ -39,6 +39,7 @@
 > Hands-on apps showcasing core concepts: Hooks, Nuxt, Tanstack, React Query, Server components, Form actions, SSR, State management(Redux, Zustand) and performance optimization.
 > Continuously staying aligned with React 16-19 updates.
 
+- **[HealthcareTA](/portfolio/projects/healthcare)**
 - **[ExpenseTracker](/portfolio/projects/expensetracker)**
 - **[NextFood](/portfolio/projects/nextfood)**
 - **[TanEvents](/portfolio/projects/tanevents)**
@@ -53,6 +54,7 @@
 
 ### Python
 > Completed [basic projects](https://www.udemy.com/course/100-days-of-code) with Pandas, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib. Now ~~building up portfolio~~ having fun.
+- **[HealthcareTA](/portfolio/projects/healthcare)**
 - **[JobScraper](/portfolio/projects/jobscraper)**
 - **[JobDash](/portfolio/projects/jobdash)**
 - **[MovieData](/portfolio/projects/moviedata)**

@@ -1,9 +1,10 @@
-title: Alexander Schmidt # your name (or website title) here
-logo: "/images/1740505134652.jpeg" # your photo (or logo) here
+title: Alexander Schmidt
+logo: "/images/1740505134652.jpeg"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: null # your Google Analytics tracking ID here
+google_analytics: none
+gtm_container: GTM-WV38C3FT
 github:
   is_project_page: false
   is_user_page: false

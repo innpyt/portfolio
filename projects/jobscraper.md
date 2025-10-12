@@ -5,17 +5,27 @@
 **Project description:** Personal python automation app from July 2025 which I built to automate my daily routine of checking new job applications on different job boards.
 
 **Why?**<br>
-Default search/filters on Linkedin/Glassdoor suck.
+Default search/filters on LinkedIn/Glassdoor suck.
 You always get some **unrelevant results** like 'DevOps Engineer' for 'Frontend Developer' search, need to use **multiple listings** like 'Fullstack Developer' vs 'Fullstack Engineer' manually checking **duplicates**, **cant filter** out unwanted companies or terms.
 
-**Tech Stack**: Python, Selenium Webdriver, Pandas, Gspread
+**Tech Stack**: Python, ~~Selenium Webdriver~~ Playwright, Pandas, Gspread
 
 ## Highlights
-- Linkedin & Glassdoor support
-- parallel scraping of multiple job board feed urls
-- company and searchterm blacklisting
+- parallel scraping of multiple job board feed urls (currently only LinkedIn & Glassdoor support)
+- automated LinkedIn login and scroll (saves and reuses browser_profile)
+- custom filters for company,title search term,rating and salary blacklisting 
+- persist individual job status/comment fields
+- persist all jobs (old jobs get archived)
+- grouping by company name (historical data)
+- auto-highlight and auto-open new jobs without filters
 - already applied filtering
-- export to Google Sheet or CSV (in an aggregated all-in-one or per feed format)
-- sorting and deduplication (Pandas)
-- autohighlight new jobs without filters
-- persist job status/comment from prev scrape
+- export to Google Sheet or CSV
+
+## Gallery
+<img src="../images/jobscraper/groups.png"/>
+*Company grouping (historical data)*
+<img src="../images/jobscraper/console_start.png"/>
+*Start*
+<img src="../images/jobscraper/console_finish.png"/>
+*Finish*
+

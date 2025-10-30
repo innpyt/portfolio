@@ -2,22 +2,18 @@
 
 <img src="../images/jobdata/output_15_0.png"/>
 
-**Project description:** Personal python data analytics notebook from October 2025.
+**Project description:** Personal python data analytics notebook from October 2025.<br>
 **Dataset**: 3000 jobs scraped with **[JobScraper](/portfolio/projects/jobscraper)** within July-October 2025
 
 **Tech Stack**: Python, Pandas, Matplotlib, Seaborn
 
 #### Table of Contents:
-- [Descriptive Statistics](#descriptive-statistics)
-- [Most common genres](#most-common-genres)
-- [Genre with the most gross](#genre-with-the-most-gross)
-- [Directors with most films](#directors-with-most-films)
-- [Directors with max gross](#directors-with-max-gross)
-- [Movie Releases over Time](#movie-releases-over-time)
-- [Budget vs Revenue (Seaborn Bubble Charts)](#budget-vs-revenue-seaborn-bubble-charts)
-- [Seaborn Regression Plots](#seaborn-regression-plots)
-- [Own Regression](#own-regression-with-scikit-learn)
-- [Model Prediction](#model-prediction)
+- [Job Titles](#job-titles)
+- - [by name](#1-by-name-developer-vs-engineer-vs-entwickler)
+- - [by technology](#2-by-technology)
+- [Source Performance and Redundancy](#source-performance-and-redundancy)
+- [Custom Filter Efficacy](#custom-filter-efficacy)
+- [Salary Analysys](#salary-analysis-and-normalization)
 
 
 # Analysis of ~3,000 Jobs from LinkedIn and Glassdoor (Last 3 Months)

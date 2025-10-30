@@ -15,10 +15,9 @@
 - [Custom Filter Efficacy](#custom-filter-efficacy)
 - [Salary Analysys](#salary-analysis-and-normalization)
 
-
 # Analysis of ~3,000 Jobs from LinkedIn and Glassdoor (Last 3 Months)
 
-Part 2 of https://www.linkedin.com/pulse/i-applied-236-jobs-frontend-developer-germany-since-march-schmidt-pihuf/
+PS: this is a Part 2 of my [Linkedin Post](https://www.linkedin.com/pulse/i-applied-236-jobs-frontend-developer-germany-since-march-schmidt-pihuf/) about job market.
 
 **Spec:**
 - Job Title: Frontend Developer/Engineer or Fullstack Developer Engineer

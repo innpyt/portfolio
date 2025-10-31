@@ -1,16 +1,16 @@
-## Portfolio
+# Portfolio
 
 ---
 
-#### Table of Contents:
-- [Vue 3 & Nuxt](#vue-3-nuxt-headless-ssr-typescript-tailwind)
-- [Vue 2](#shopware-6-vue-23-twig-javascript)
-- [React & Next](#react--next)
-- [Python](#python)
+>## Table of Contents
+>- [Vue 3 & Nuxt](#vue-3-nuxt-headless-ssr-typescript-tailwind)
+>- [Vue 2](#shopware-6-vue-23-twig-javascript)
+>- [React & Next](#react--next)
+>- [Python](#python)
 
 ---
 
-### Vue 3, Nuxt, Headless, SSR, Typescript, Tailwind
+## Vue 3, Nuxt, Headless, SSR, Typescript, Tailwind
 
 - **[Adam Hall](/portfolio/projects/adamhall)**
 - **[Wortmann](/portfolio/projects/wortmann)**
@@ -22,7 +22,7 @@
 
 ---
 
-### Shopware 6, Vue 2/3, Twig, Javascript
+## Shopware 6, Vue 2/3, Twig, Javascript
 
 - **[Armedangels](/portfolio/projects/armedangels)**
 - **[Eterna](/portfolio/projects/eterna)**
@@ -35,7 +35,7 @@
 |------------------------------------------|-------------------------------------|--------------------------------------|
 | <img src="images/armedangels/home.png"/> | <img src="images/eterna/home.png"/> | <img src="images/babyone/home.png"/> |
 
-### React & Next
+## React & Next
 > Hands-on apps showcasing core concepts: Hooks, Nuxt, Tanstack, React Query, Server components, Form actions, SSR, State management(Redux, Zustand) and performance optimization.
 > Continuously staying aligned with React 16-19 updates.
 
@@ -52,7 +52,7 @@
 
 ---
 
-### Python
+## Python
 > Completed [basic projects](https://www.udemy.com/course/100-days-of-code) with Pandas, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib. Now ~~building up portfolio~~ having fun.
 - **[JobData](/portfolio/projects/jobdata)**
 - **[HealthcareTA](/portfolio/projects/healthcare)**

@@ -1,5 +1,5 @@
 ## [Projects](/portfolio/) | JobData
-<a href="../images/jobdash/output_15_0.png" class="glightbox">
+<a href="../images/jobdata/output_15_0.png" class="glightbox">
 <img src="../images/jobdata/output_15_0.png"/>
 </a>
 

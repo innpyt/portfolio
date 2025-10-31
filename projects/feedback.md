@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Feedback
+# [Projects](/portfolio/) | Feedback
 
 <img src="../images/feedback/home.png"/>
 

@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | JobScraper
+# [Projects](/portfolio/) | JobScraper
 
 <a href="../images/jobscraper/home.png" class="glightbox">
 <img src="../images/jobscraper/home.png"/>
@@ -26,16 +26,20 @@ See **[JobData](/portfolio/projects/jobdata)** for some job data analysis based 
 - export to Google Sheet or CSV
 
 ## Gallery
+
+#### Company grouping (historical data)
 <a href="../images/jobscraper/groups.png" class="glightbox" data-description="Job company grouping for historical data">
 <img src="../images/jobscraper/groups.png"/>
 </a>
-*Company grouping (historical data)*
-<a href="../images/jobscraper/console_start.png" class="glightbox">
+
+#### Start
+<a href="../images/jobscraper/console_start.png" class="glightbox" data-description="Start">
 <img src="../images/jobscraper/console_start.png"/>
 </a>
-*Start*
-<a href="../images/jobscraper/console_finish.png" class="glightbox">
+
+
+#### Finish
+<a href="../images/jobscraper/console_finish.png" class="glightbox" data-description="Finish">
 <img src="../images/jobscraper/console_finish.png"/>
 </a>
-*Finish*
 

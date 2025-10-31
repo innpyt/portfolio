@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | TanEvents
+# [Projects](/portfolio/) | TanEvents
 
 <img src="../images/tanevents/home.png"/>
 
@@ -12,5 +12,7 @@
 - optimistic updating
 - disabling automatic refetching
 
+## Gallery
+
+#### Event
 ![Event](../images/tanevents/event.png)
-*Event*

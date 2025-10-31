@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | ExpenseTracker
+# [Projects](/portfolio/) | ExpenseTracker
 
 <img src="../images/expensetracker/home.png"/>
 
@@ -7,13 +7,15 @@
 **Tech Stack**: React 19, Typescript, Zustand, Tailwind
 
 ## Highlights
+- expense category mapping
 - Chart.js
 - Schadcn UI Component library
 - Zustand
 - React Window
 
+## Gallery
+#### Transactions
 ![Transactions](../images/expensetracker/transactions.png)
-*Transactions*
 
+#### Balance
 ![Balance](../images/expensetracker/balance.png)
-*Balance*

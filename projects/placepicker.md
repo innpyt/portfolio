@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Placepicker
+# [Projects](/portfolio/) | Placepicker
 
 <img src="../images/placepicker/home.png"/>
 

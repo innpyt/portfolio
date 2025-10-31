@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | NextFood
+# [Projects](/portfolio/) | NextFood
 
 <img src="../images/nextfood/home.png"/>
 
@@ -16,6 +16,8 @@
 - server-side input validation
 - nuxt cache, revalidations
 - metadata
+- 
+## Gallery
 
+#### Meal
 ![Meal](../images/nextfood/meal.png)
-*Meal*

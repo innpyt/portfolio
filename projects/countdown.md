@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Countdown
+# [Projects](/portfolio/) | Countdown
 
 <img src="../images/countdown/home.png"/>
 

@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | JobData
+# [Projects](/portfolio/) | JobData
 <a href="../images/jobdata/output_15_0.png" class="glightbox">
 <img src="../images/jobdata/output_15_0.png"/>
 </a>
@@ -8,15 +8,15 @@
 
 **Tech Stack**: Python, Pandas, Matplotlib, Seaborn
 
-#### Table of Contents:
-- [Job Titles](#job-titles)
-  - [by name](#1-by-name-developer-vs-engineer-vs-entwickler)
-  - [by technology](#2-by-technology)
-- [Source Performance and Redundancy](#source-performance-and-redundancy)
-- [Custom Filter Efficacy](#custom-filter-efficacy)
-- [Salary Analysys](#salary-analysis-and-normalization)
+>## Table of Contents
+>- [Job Titles](#job-titles)
+>  - [by name](#1-by-name-developer-vs-engineer-vs-entwickler)
+>  - [by technology](#2-by-technology)
+>- [Source Performance and Redundancy](#source-performance-and-redundancy)
+>- [Custom Filter Efficacy](#custom-filter-efficacy)
+>- [Salary](#salary)
 
-# Analysis of ~3,000 Jobs from LinkedIn and Glassdoor (Last 3 Months)
+## Analysis of ~3,000 Jobs from LinkedIn and Glassdoor (Last 3 Months)
 
 PS: this is a Part 2 of my [Linkedin Post](https://www.linkedin.com/pulse/i-applied-236-jobs-frontend-developer-germany-since-march-schmidt-pihuf/) about job market.
 
@@ -199,8 +199,6 @@ df.sample(5)
 </table>
 <p>5 rows × 18 columns</p>
 </div>
-
-
 
 ## Job Titles
 ### Cleanup
@@ -518,11 +516,12 @@ plt.show()
 
 **Observation:** Both platforms yield a similar number of unique jobs (Glassdoor provides 118 more). However, LinkedIn jobs appear slightly more relevant (likely due to the scraper's use of logical operators and/or the platform's search quality).
 
-## Salary Analysis and Normalization
+## Salary
+
+### Normalisation
 Salary data comes in various inconsistent formats: 60.000 €, €58K/yr, €1,000/month, €50/hr and in USD $58K/yr, so we need to **normalise and split** it to different columns for easier sorting/use in data charts.<br>
 PS: will be moved to scraper logic later, but for now we do it here. <br>
 Also I will filter jobs with salary < 40k and > 120k as those are mostly intern, high-level EM/Staff positions or just US-based
-
 
 ```python
 USD_TO_EUR_RATIO = 0.86
@@ -635,7 +634,10 @@ df['salary_err'] = df['salary_avg'] - df['salary_min']
 
 # filter only data with salary
 df = df[(df['salary_avg'] >= 40000) & (df['salary_avg'] <= 120000)]
+```
 
+### Analysis
+```python
 frontend_df = df[
     df['job_title'].str.contains(r'front', case=False, na=False) &
     ~df['job_title'].str.contains(r'full', case=False, na=False)
@@ -772,7 +774,7 @@ plt.show()
 
 But the outcomes are same as above section.
 
-## Salary Range Distribution
+### Range Distribution
 
 
 ```python

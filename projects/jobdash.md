@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | JobDash
+# [Projects](/portfolio/) | JobDash
 <a href="../images/jobdash/home.png" class="glightbox">
 <img src="../images/jobdash/home.png"/>
 </a>

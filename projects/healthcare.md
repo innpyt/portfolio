@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | HealthcareTA ([Github](https://github.com/innpyt/healthcare-ta/){:target="_blank"})
+# [Projects](/portfolio/) | HealthcareTA ([Github](https://github.com/innpyt/healthcare-ta/){:target="_blank"})
 <a href="../images/healthcare/home.png" class="glightbox">
 <img src="../images/healthcare/home.png"/>
 </a>
@@ -7,13 +7,13 @@
 
 **Tech Stack**: Python FastAPI, PostgresSQL, React, Docker
 
-### Highlights
+## Highlights
 - easy dockerised setup
 - FastAPI routes with OpenAPI Documentation
 - PostresSQL with schema, programmatically generated demo data, and db viewer
 - basic data visualisations using [Nivo](https://nivo.rocks/){:target="_blank"})
 
 
-### Gallery
-
+## Gallery
+#### API
 <img src="../images/healthcare/api.png"/>

@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | MovieData
+# [Projects](/portfolio/) | MovieData
 <a href="../images/moviedata/output_31_0.png" class="glightbox">
 <img src="../images/moviedata/output_31_0.png"/>
 </a>
@@ -6,24 +6,24 @@
 
 **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Sklearn
 
-#### Table of Contents:
-- [Descriptive Statistics](#descriptive-statistics)
-- [Most common genres](#most-common-genres)
-- [Genre with the most gross](#genre-with-the-most-gross)
-- [Directors with most films](#directors-with-most-films)
-- [Directors with max gross](#directors-with-max-gross)
-- [Movie Releases over Time](#movie-releases-over-time)
-- [Budget vs Revenue (Seaborn Bubble Charts)](#budget-vs-revenue-seaborn-bubble-charts)
-- [Seaborn Regression Plots](#seaborn-regression-plots)
-- [Own Regression](#own-regression-with-scikit-learn)
-- [Model Prediction](#model-prediction)
+>## Table of Contents
+>- [Descriptive Statistics](#descriptive-statistics)
+>- [Most common genres](#most-common-genres)
+>- [Genre with the most gross](#genre-with-the-most-gross)
+>- [Directors with most films](#directors-with-most-films)
+>- [Directors with max gross](#directors-with-max-gross)
+>- [Movie Releases over Time](#movie-releases-over-time)
+>- [Budget vs Revenue (Seaborn Bubble Charts)](#budget-vs-revenue-seaborn-bubble-charts)
+>- [Seaborn Regression Plots](#seaborn-regression-plots)
+>- [Own Regression](#own-regression-with-scikit-learn)
+>- [Model Prediction](#model-prediction)
 
 
-# Introduction
+## Introduction
 
 Do higher film budgets lead to more box office revenue? Let's find out if there's a relationship using IMDB 2023 Dataset from [Kaggle](https://www.kaggle.com/datasets/adriankiezun/imdb-dataset-2023?resource=download).
 
-# Import Statements
+## Import Statements
 
 
 ```python
@@ -34,7 +34,7 @@ import seaborn as sns
 from sklearn.linear_model import LinearRegression
 ```
 
-# Notebook Presentation
+## Notebook Presentation
 
 
 ```python
@@ -43,14 +43,14 @@ pd.set_option('display.width', 400)
 pd.set_option('display.max_columns', 10)
 ```
 
-# Read the Data
+## Read the Data
 
 
 ```python
 df = pd.read_csv('imdb_data.csv')
 ```
 
-# Explore and Clean the Data
+## Explore and Clean the Data
 
 
 ```python
@@ -195,7 +195,7 @@ df.sample(5)
 
 
 
-### Cleanup and conversions
+## Cleanup and conversions
 
 - convert 'September 18, 2019' dates to datetime
 - convert averageRating to numeric
@@ -329,7 +329,7 @@ df.head(5)
 
 
 
-### Descriptive Statistics
+## Descriptive Statistics
 
 
 ```python
@@ -529,7 +529,7 @@ df[df.budget.isin([6000, 356000000])]
 Surprise, it's now actually **Avengers: Endgame**!
 And the lowest budget is **Following** by Christopher Nolan, released in 1998... Never heard of it, but ok. Interesting is that it also made x21 the budget.
 
-### Films that Lost Money
+## Films that Lost Money
 
 Of course not all films are successfull, lets find out what is the percentage of films where the production costs exceeded the worldwide gross revenue? 
 
@@ -545,7 +545,7 @@ print(len(money_losing)/len(df))
 
 14.9% of films do not recoup their budget at the worldwide box office. Seems quite low but this dataset doesn't include domestic revenue, so films that were never released worldwide are not even included.
 
-# Most common genres
+## Most common genres
 
 
 ```python
@@ -569,7 +569,7 @@ plt.show()
     
 
 
-# Genre with the most gross
+## Genre with the most gross
 
 
 ```python
@@ -611,7 +611,7 @@ plt.show()
 
 Most common genres: Adventure, Action, Drama also have max gross values. Interesting that Comedy gets replaced by Fantasy, which is only about 3.7%
 
-# Directors with most films
+## Directors with most films
 
 
 ```python
@@ -632,7 +632,7 @@ plt.show()
 </a>    
 
 
-# Directors with max gross
+## Directors with max gross
 
 
 ```python
@@ -656,7 +656,7 @@ plt.show()
 </a>    
 
 
-# Budget vs Revenue (Seaborn Bubble Charts)
+## Budget vs Revenue (Seaborn Bubble Charts)
 
 
 ```python
@@ -716,7 +716,7 @@ plt.show()
 
 We clearly see a positive trend of budgets/revenue increasing over time
 
-# Seaborn Regression Plots
+## Seaborn Regression Plots
 
 
 ```python
@@ -743,7 +743,7 @@ with sns.axes_style('darkgrid'):
 We also see that a film with a $150 million budget is predicted to make slightly under $500 million by our regression line.
 All in all, we can be pretty confident that there does indeed seem to be a relationship between a film's budget and that film's worldwide revenue.
 
-# Own Regression with scikit-learn
+## Own Regression with scikit-learn
 $ REVENUE = \theta _0 + \theta _1 * BUDGET$
 
 
@@ -777,7 +777,7 @@ print(f"R-squared is {r2}")
 - R-squared 0.48 means that our model explains about 48% of the variance in movie revenue.
 That's actually pretty decent, considering we've got the simplest possible model, with only one explanatory variable.
 
-# Model Prediction
+## Model Prediction
 
 We just estimated the slope and intercept! Remember that our Linear Model has the following form:
 
@@ -796,4 +796,4 @@ print(f'The estimated revenue for a $350m film is around ${revenue_estimate:.10}
 
 So for a $350M we estimate $1.12B
 
-# That's it, thanks for watching!
+**That's it, thanks for watching!**

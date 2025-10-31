@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | ReactFood
+# [Projects](/portfolio/) | ReactFood
 
 <img src="../images/food/home.png"/>
 
@@ -12,8 +12,10 @@
 - form input & validation, form actions
 - sending data
 
-![Address modal](../images/food/food-cart.png)
-*Address modal*
+## Gallery
 
+#### Cart
+![Address modal](../images/food/food-cart.png)
+
+#### Checkout
 ![Address modal](../images/food/food-checkout.png)
-*Address modal*

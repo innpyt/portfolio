@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | ReStore
+# [Projects](/portfolio/) | ReStore
 
 <img src="../images/restore/home.png"/>
 

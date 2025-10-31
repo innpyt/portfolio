@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Events
+# [Projects](/portfolio/) | Events
 
 <img src="../images/events/home.png"/>
 
@@ -13,5 +13,7 @@
 - route guards
 - auto-logout on token expiration
 
+## Gallery
+
+#### Event
 ![Event](../images/events/event.png)
-*Event*

@@ -1,4 +1,4 @@
-## [Projects](/portfolio/) | Context
+# [Projects](/portfolio/) | Context
 
 <img src="../images/context/home.png"/>
 

@@ -1,6 +1,7 @@
 ## [Projects](/portfolio/) | JobDash
-
+<a href="../images/jobdash/home.png" class="glightbox">
 <img src="../images/jobdash/home.png"/>
+</a>
 
 **Project description:** Personal job dashboard app from July 2025 which I built to automate my daily routine of checking new job applications on different job boards.
 

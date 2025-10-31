@@ -1,7 +1,7 @@
 ## [Projects](/portfolio/) | MovieData
-
+<a href="../images/moviedata/output_31_0.png" class="glightbox">
 <img src="../images/moviedata/output_31_0.png"/>
-
+</a>
 **Project description:** Personal python data analytics notebook from August 2025
 
 **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Sklearn
@@ -563,8 +563,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/moviedata/output_22_0.png)
+<a href="../images/moviedata/output_22_0.png" class="glightbox">    
+<img src="../images/moviedata/output_22_0.png" />
+</a>
     
 
 
@@ -603,8 +604,9 @@ plt.show()
 
 
     
-![png](../images/moviedata/output_24_1.png)
-    
+<a href="../images/moviedata/output_24_1.png" class="glightbox">
+<img src="../images/moviedata/output_24_1.png" />
+</a>    
 
 
 Most common genres: Adventure, Action, Drama also have max gross values. Interesting that Comedy gets replaced by Fantasy, which is only about 3.7%
@@ -625,9 +627,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/moviedata/output_27_0.png)
-    
+<a href="../images/moviedata/output_27_0.png" class="glightbox">    
+<img src="../images/moviedata/output_27_0.png" />
+</a>    
 
 
 # Directors with max gross
@@ -649,9 +651,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/moviedata/output_29_0.png)
-    
+<a href="../images/moviedata/output_29_0.png" class="glightbox">    
+<img src="../images/moviedata/output_29_0.png" />
+</a>    
 
 
 # Budget vs Revenue (Seaborn Bubble Charts)
@@ -677,9 +679,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/moviedata/output_31_0.png)
-    
+<a href="../images/moviedata/output_31_0.png" class="glightbox">    
+<img src="../images/moviedata/output_31_0.png" />
+</a>    
 
 
 Bigger budget seems to correspond to higher revenue. And also budgets above $100m tend to stick to fix sums like 150, 200
@@ -707,9 +709,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/moviedata/output_34_0.png)
-    
+<a href="../images/moviedata/output_34_0.png" class="glightbox">
+<img src="../images/moviedata/output_34_0.png" />
+</a>
 
 
 We clearly see a positive trend of budgets/revenue increasing over time
@@ -734,10 +736,9 @@ with sns.axes_style('darkgrid'):
 ```
 
 
-    
-![png](../images/moviedata/output_37_0.png)
-    
-
+<a href="../images/moviedata/output_37_0.png" class="glightbox">
+<img src="../images/moviedata/output_37_0.png" />
+</a>
 
 We also see that a film with a $150 million budget is predicted to make slightly under $500 million by our regression line.
 All in all, we can be pretty confident that there does indeed seem to be a relationship between a film's budget and that film's worldwide revenue.

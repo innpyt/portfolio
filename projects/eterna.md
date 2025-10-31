@@ -1,6 +1,7 @@
 ## [Projects](/portfolio/) | Eterna ([Link](https://www.eterna.de/de/){:target="_blank"})
-
+<a href="../images/eterna/home.png" class="glightbox">
 <img src="../images/eterna/home.png"/>
+</a>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -31,18 +32,23 @@
 - improved pdp and listing performance by improving slider initialisation styling, adding lazyloading and image width/height attrs, using image thumbnails and removing excessive media requests
 
 ### Gallery
-
-![Listing](../images/eterna/listing.png)
+<a href="../images/eterna/listing.png" class="glightbox">
+<img src="../images/eterna/listing.png"/>
+</a>
 *Listing*
-
-![Detail](../images/eterna/detail.png)
+<a href="../images/eterna/detail.png" class="glightbox">
+<img src="../images/eterna/detail.png"/>
+</a>
 *Detail*
-
-![Offcanvas](../images/eterna/offcanvas.png)
+<a href="../images/eterna/offcanvas.png" class="glightbox">
+<img src="../images/eterna/offcanvas.png"/>
+</a>
 *Offcanvas*
-
-![Monogram](../images/eterna/monogram.png)
+<a href="../images/eterna/monogram.png" class="glightbox">
+<img src="../images/eterna/monogram.png"/>
+</a>
 *Monogram*
-
-![Map](../images/eterna/map.png)
+<a href="../images/eterna/map.png" class="glightbox">
+<img src="../images/eterna/map.png"/>
+</a>
 *Map*

@@ -1,6 +1,8 @@
 ## [Projects](/portfolio/) | Adam Hall ([Link](https://www.adamhall.com/shop/de){:target="_blank"})
 
+<a href="../images/adamhall/home.png" class="glightbox">
 <img src="../images/adamhall/home.png"/>
+</a>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -44,32 +46,41 @@
 - Evaluation of new technologies and development trends
 
 ### Gallery
-
-![Checkout](../images/adamhall/checkout.png)
+<a href="../images/adamhall/checkout.png" class="glightbox">
+<img src="../images/adamhall/checkout.png"/>
+</a>
 *Checkout*
-
-![Fast Order](../images/adamhall/fast-order.png)
+<a href="../images/adamhall/fast-order.png" class="glightbox">
+<img src="../images/adamhall/fast-order.png"/>
+</a>
 *Fast Order*
-
-![Dealer Search](../images/adamhall/dealer-search.png)
+<a href="../images/adamhall/dealer-search.png" class="glightbox">
+<img src="../images/adamhall/dealer-search.png"/>
+</a>
 *Dealer Search | Google Maps*
-
-![Cable Explorer](../images/adamhall/cable-explorer.png)
+<a href="../images/adamhall/cable-explorer.png" class="glightbox">
+<img src="../images/adamhall/cable-explorer.png"/>
+</a>
 *Cable Explorer*
-
-![Order History List](../images/adamhall/order-history-list.png)
+<a href="../images/adamhall/order-history-list.png" class="glightbox">
+<img src="../images/adamhall/order-history-list.png"/>
+</a>
 *Order History List*
-
-![Order History Detail](../images/adamhall/order-history-detail.png)
+<a href="../images/adamhall/order-history-detail.png" class="glightbox">
+<img src="../images/adamhall/order-history-detail.png"/>
+</a>
 *Order History Detail*
-
-![Search flyout](../images/adamhall/search-flyout.png)
+<a href="../images/adamhall/search-flyout.png" class="glightbox">
+<img src="../images/adamhall/search-flyout.png"/>
+</a>
 *Search flyout*
-
-![Product downloads](../images/adamhall/product-downloads.png)
+<a href="../images/adamhall/product-downloads.png" class="glightbox">
+<img src="../images/adamhall/product-downloads.png"/>
+</a>
 *Product downloads*
-
-![Wishlists](../images/adamhall/wishlists.png)
+<a href="../images/adamhall/wishlists.png" class="glightbox">
+<img src="../images/adamhall/wishlists.png"/>
+</a>
 *Wishlists*
 
 

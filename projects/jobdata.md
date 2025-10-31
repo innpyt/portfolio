@@ -1,6 +1,7 @@
 ## [Projects](/portfolio/) | JobData
-
+<a href="../images/jobdash/output_15_0.png" class="glightbox">
 <img src="../images/jobdata/output_15_0.png"/>
+</a>
 
 **Project description:** Personal python data analytics notebook from October 2025.<br>
 **Dataset**: 3000 jobs scraped with **[JobScraper](/portfolio/projects/jobscraper)** within July-October 2025
@@ -9,8 +10,8 @@
 
 #### Table of Contents:
 - [Job Titles](#job-titles)
-- - [by name](#1-by-name-developer-vs-engineer-vs-entwickler)
-- - [by technology](#2-by-technology)
+  - [by name](#1-by-name-developer-vs-engineer-vs-entwickler)
+  - [by technology](#2-by-technology)
 - [Source Performance and Redundancy](#source-performance-and-redundancy)
 - [Custom Filter Efficacy](#custom-filter-efficacy)
 - [Salary Analysys](#salary-analysis-and-normalization)
@@ -261,8 +262,9 @@ plt.tight_layout()
 ```
 
 
-    
-![png](../images/jobdata/output_12_0.png)
+<a href="../images/jobdata/output_12_0.png" class="glightbox">
+<img src="../images/jobdata/output_12_0.png" />
+</a>
     
 
 
@@ -314,8 +316,9 @@ plt.tight_layout()
 ```
 
 
-    
-![png](../images/jobdata/output_15_0.png)
+<a href="../images/jobdata/output_15_0.png" class="glightbox">
+<img src="../images/jobdata/output_15_0.png" />
+</a>
 
 As shown, the **number** of React jobs surpasses Angular and Vue combined.<br>
 But Java + Angular often come together and are therefore also a strong pick.<br>
@@ -388,9 +391,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/jobdata/output_18_0.png)
-    
+<a href="../images/jobdata/output_18_0.png" class="glightbox">
+<img src="../images/jobdata/output_18_0.png" />
+</a> 
 
 
 **Observation:** LinkedIn feeds appear to contribute fewer unique jobs (likely due to my specific logical filters and broad Glassdoor coverage), but there is no clear outlier to remove yet.
@@ -462,9 +465,9 @@ plt.show()
     
 
 
-    
-![png](../images/jobdata/output_21_1.png)
-    
+<a href="../images/jobdata/output_21_1.png" class="glightbox">
+<img src="../images/jobdata/output_21_1.png" />
+</a>    
 
 
 **Conclusion:** Approximately **each 2nd job** is filtered out due to low score (Glassdoor only), pre-application status, company blacklisting, or non-relevant terms in the title. This process saves significant time daily.
@@ -508,9 +511,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/jobdata/output_23_0.png)
-    
+<a href="../images/jobdata/output_23_0.png" class="glightbox">
+<img src="../images/jobdata/output_23_0.png" />
+</a>
 
 
 **Observation:** Both platforms yield a similar number of unique jobs (Glassdoor provides 118 more). However, LinkedIn jobs appear slightly more relevant (likely due to the scraper's use of logical operators and/or the platform's search quality).
@@ -677,38 +680,44 @@ generate_plots(fullstack_df_gd, "Fullstack Jobs GD")
 ```
 
 
-    
-![png](../images/jobdata/output_26_0.png)
-    
-
-
-
-    
-![png](../images/jobdata/output_26_1.png)
+<a href="../images/jobdata/output_26_0.png" class="glightbox">
+<img src="../images/jobdata/output_26_0.png" />
+</a>
     
 
 
 
-    
-![png](../images/jobdata/output_26_2.png)
-    
-
-
-
-    
-![png](../images/jobdata/output_26_3.png)
+<a href="../images/jobdata/output_26_1.png" class="glightbox">
+<img src="../images/jobdata/output_26_1.png" />
+</a>
     
 
 
 
-    
-![png](../images/jobdata/output_26_4.png)
+<a href="../images/jobdata/output_26_2.png" class="glightbox">
+<img src="../images/jobdata/output_26_2.png" />
+</a>
     
 
 
 
+<a href="../images/jobdata/output_23_0.png" class="glightbox">
+<img src="../images/jobdata/output_23_0.png" />
+</a>
     
-![png](../images/jobdata/output_26_5.png)
+
+
+
+<a href="../images/jobdata/output_26_4.png" class="glightbox">
+<img src="../images/jobdata/output_26_4.png" />
+</a>
+    
+
+
+
+<a href="../images/jobdata/output_26_5.png" class="glightbox">
+<img src="../images/jobdata/output_26_5.png" />
+</a>
     
 
 
@@ -748,9 +757,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/jobdata/output_29_0.png)
-    
+<a href="../images/jobdata/output_29_0.png" class="glightbox">    
+<img src="../images/jobdata/output_29_0.png" />
+</a>    
 
 
 **How to read:**
@@ -784,9 +793,9 @@ plt.show()
 ```
 
 
-    
-![png](../images/jobdata/output_32_0.png)
-    
+<a href="../images/jobdata/output_32_0.png" class="glightbox">    
+<img src="../images/jobdata/output_32_0.png" />
+</a>    
 
 
 Median range is 10k. Wider range might indicate the company is more flexible or less certain about the exact salary for the candidate, giving you more negotiation room.

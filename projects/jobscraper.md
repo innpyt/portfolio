@@ -8,8 +8,9 @@
 
 **Why?**<br>
 Default search/filters on LinkedIn/Glassdoor suck.
-You always get some **unrelevant results** like 'DevOps Engineer' for 'Frontend Developer' search, need to use **multiple listings** like 'Fullstack Developer' vs 'Fullstack Engineer' manually checking **duplicates**, **cant filter** out unwanted companies or terms.<br>
-See **[JobData](/portfolio/projects/jobdata)** for some job data analysis
+You always get some **unrelevant results** like 'DevOps Engineer' for 'Frontend Developer' search, need to use **multiple listings** like 'Fullstack Developer' vs 'Fullstack Engineer' manually checking **duplicates**, **cant filter** out unwanted companies or terms.
+
+See **[JobData](/portfolio/projects/jobdata)** for some job data analysis based on the scraped data.
 
 **Tech Stack**: Python, ~~Selenium Webdriver~~ Playwright, Pandas, Gspread
 
@@ -25,10 +26,16 @@ See **[JobData](/portfolio/projects/jobdata)** for some job data analysis
 - export to Google Sheet or CSV
 
 ## Gallery
+<a href="../images/jobscraper/groups.png" class="glightbox" data-description="Job company grouping for historical data">
 <img src="../images/jobscraper/groups.png"/>
+</a>
 *Company grouping (historical data)*
+<a href="../images/jobscraper/console_start.png" class="glightbox">
 <img src="../images/jobscraper/console_start.png"/>
+</a>
 *Start*
+<a href="../images/jobscraper/console_finish.png" class="glightbox">
 <img src="../images/jobscraper/console_finish.png"/>
+</a>
 *Finish*
 

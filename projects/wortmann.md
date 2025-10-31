@@ -1,6 +1,7 @@
 ## [Projects](/portfolio/) | Wortmann ([Link](https://wortmann-group.com/de/home){:target="_blank"})
-
+<a href="../images/wortmann/home.png" class="glightbox">
 <img src="../images/wortmann/home.png"/>
+</a>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -21,9 +22,14 @@
 - integrated Barcode Scanner into digital sales room PWA
 
 ### Gallery
+<a href="../images/wortmann/guide.png" class="glightbox">
+<img src="../images/wortmann/guide.png">
+</a>
+*Digital Sales Room*
 
-![Digital Sales Room](../images/wortmann/guide.png)
-*Digital Sales Room ([Video](https://videos.ctfassets.net/nqzs8zsepqpi/1MlPZAN46uCbQBNJ45nd7M/0cb0d2d763df51646f47f8345dc2c494/Digital-Sales-Rooms_Usecase-1_Guided_DE-animations_1920x1080_no-audio_v3.mp4){:target="_blank"})*
+See a full video here: [Video](https://videos.ctfassets.net/nqzs8zsepqpi/1MlPZAN46uCbQBNJ45nd7M/0cb0d2d763df51646f47f8345dc2c494/Digital-Sales-Rooms_Usecase-1_Guided_DE-animations_1920x1080_no-audio_v3.mp4){:target="_blank"}
 
-![Barcode scanner](../images/wortmann/scanner.png)
+<a href="../images/wortmann/scanner.png" class="glightbox">
+<img src="../images/wortmann/scanner.png">
+</a>
 *Barcode scanner*

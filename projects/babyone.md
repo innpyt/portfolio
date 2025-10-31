@@ -1,6 +1,7 @@
 ## [Projects](/portfolio/) | Babyone ([Link](https://www.babyone.de/){:target="_blank"})
-
+<a href="../images/babyone/home.png" class="glightbox">
 <img src="../images/babyone/home.png"/>
+</a>
 
 #### Table of Contents:
 - [Highlights](#highlights)
@@ -25,15 +26,19 @@
 - integrated emarsys web extend tracking (inkl admin component with config)
 
 ### Gallery
-
-![Listing](../images/babyone/listing.png)
+<a href="../images/babyone/listing.png" class="glightbox">
+<img src="../images/babyone/listing.png"/>
+</a>
 *Listing*
-
-![Detail](../images/babyone/detail.png)
+<a href="../images/babyone/detail.png" class="glightbox">
+<img src="../images/babyone/detail.png"/>
+</a>
 *Detail*
-
-![Address state](../images/babyone/address.png)
+<a href="../images/babyone/address.png" class="glightbox">
+<img src="../images/babyone/address.png"/>
+</a>
 *Address states*
-
-![Address modal](../images/babyone/address-modal.png)
+<a href="../images/babyone/address-modal.png" class="glightbox">
+<img src="../images/babyone/address-modal.png"/>
+</a>
 *Address modal*

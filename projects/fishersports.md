@@ -1,6 +1,7 @@
 ## [Projects](/portfolio/) | Fishersports ([Link](https://www.fischersports.com/de_de){:target="_blank"})
-
+<a href="../images/fishersports/home.png" class="glightbox">
 <img src="../images/fishersports/home.png"/>
+</a>
 
 #### Table of Contents:
 - [Accomplishments](#accomplishments)
@@ -15,16 +16,20 @@
 - Developed Blog Feature: listing composable, filters, sorting, pagination (infinity scrolling), page builder blog components, etc
 
 ### Gallery
-
-![Address modal](../images/fishersports/address-suggest.png)
+<a href="../images/fishersports/address-suggest.png" class="glightbox">
+<img src="../images/fishersports/address-suggest.png" />
+</a>
 *Address suggests*
-
-![Address modal](../images/fishersports/address-modal.png)
+<a href="../images/fishersports/address-modal.png" class="glightbox">
+<img src="../images/fishersports/address-modal.png" />
+</a>
 *Address correction modal*
-
-![Blog1](../images/fishersports/blog1.png)
+<a href="../images/fishersports/blog1.png" class="glightbox">
+<img src="../images/fishersports/blog1.png" />
+</a>
 *Blog Listing*
-
-![Blog2](../images/fishersports/blog2.png)
+<a href="../images/fishersports/blog2.png" class="glightbox">
+<img src="../images/fishersports/blog2.png" />
+</a>
 *Blog keep reading section*
 

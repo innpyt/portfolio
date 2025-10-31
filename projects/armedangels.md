@@ -1,6 +1,7 @@
 ## [Projects](/portfolio/) | Armedangels ([Link](https://www.armedangels.com/de-de){:target="_blank"})
-
+<a href="../images/armedangels/home.png" class="glightbox">
 <img src="../images/armedangels/home.png"/>
+</a>
 
 #### Table of Contents:
 - [Accomplishments](#accomplishments)
@@ -18,15 +19,19 @@
 - helped to identify ecommerce order tracking bug with Sentry
 
 ### Gallery
-
-![Listing](../images/armedangels/listing.png)
+<a href="../images/armedangels/listing.png" class="glightbox">
+<img src="../images/armedangels/listing.png"/>
+</a>
 *Listing*
-
-![Product](../images/armedangels/pdp.png)
+<a href="../images/armedangels/pdp.png" class="glightbox">
+<img src="../images/armedangels/pdp.png"/>
+</a>
 *Product*
-
-![Video Block](../images/armedangels/video.png)
+<a href="../images/armedangels/video.png" class="glightbox">
+<img src="../images/armedangels/video.png"/>
+</a>
 *Video page builder block*
-
-![Reviews](../images/armedangels/reviews.png)
+<a href="../images/armedangels/reviews.png" class="glightbox">
+<img src="../images/armedangels/reviews.png"/>
+</a>
 *Reviews*

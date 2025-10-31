@@ -30,7 +30,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <!-- End Google Tag Manager (noscript) -->
    <div class="wrapper">
       <header>
-         <h1 style="margin-bottom: 0;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+         <h1 style="margin-bottom: 0;text-align: center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          <p style="text-align:center;">Senior Fullstack Engineer <span style="font-size: 12px; display: block;">TypeScript/JavaScript | Node.js | Vue/React | Python</span></p>
          {% if site.logo %}
          <div style="margin: 0 auto; border-radius: 50%;overflow: hidden;aspect-ratio: 1 / 1;">
@@ -51,7 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </p>
          <div style="text-align: center;">
             <h3>About me</h3>
-            <p>An analytical problem solver with 9 years of experience in web application development, specializing in modern, efficient solutions. 
+            <p style="text-wrap: pretty;">An analytical problem solver with 9 years of experience in web application development, specializing in modern, efficient solutions.
                Originally comming from Frontend currently actively pursuing Fullstack roles, leveraging expertise in Node.js for server-side logic and API development. Strong technical ownership, "extra mile" mentality, and a keen focus on UX and dev workflow optimization.
             </p>
             <ul style="text-align: left;">
@@ -86,7 +86,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <script type="module">
      import 'https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js';
 
-     const lightbox = GLightbox({ ...options });
+     const lightbox = GLightbox({});
    </script>
 </body>
 </html>
